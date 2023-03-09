@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hi!");
+            Console.WriteLine("모두들 안녕");
         }
     }
 }
