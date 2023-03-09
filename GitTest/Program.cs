@@ -7,7 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hi!");
             Console.WriteLine("모두들 안녕");
-            Console.WriteLine("내가 누군지아니");
+            Console.WriteLine("내가 누군지아냐");
         }
     }
 }
